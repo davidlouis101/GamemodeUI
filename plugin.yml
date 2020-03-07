@@ -6,4 +6,4 @@ api: [3.0.0]
 github: https://github.com/misael38/GamemodeUI
 commands:
  gmui:
-  description: Select A Gamemode With Menu UI! 
+  description: §cGamemodeSystem 
